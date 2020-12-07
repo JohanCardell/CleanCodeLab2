@@ -1,0 +1,16 @@
+C:\Users\johan\source\repos\TollFeeCalculator\bin\Debug\net5.0\TollFeeCalculator.exe
+C:\Users\johan\source\repos\TollFeeCalculator\bin\Debug\net5.0\TollFeeCalculator.deps.json
+C:\Users\johan\source\repos\TollFeeCalculator\bin\Debug\net5.0\TollFeeCalculator.runtimeconfig.json
+C:\Users\johan\source\repos\TollFeeCalculator\bin\Debug\net5.0\TollFeeCalculator.runtimeconfig.dev.json
+C:\Users\johan\source\repos\TollFeeCalculator\bin\Debug\net5.0\TollFeeCalculator.dll
+C:\Users\johan\source\repos\TollFeeCalculator\bin\Debug\net5.0\ref\TollFeeCalculator.dll
+C:\Users\johan\source\repos\TollFeeCalculator\bin\Debug\net5.0\TollFeeCalculator.pdb
+C:\Users\johan\source\repos\TollFeeCalculator\obj\Debug\net5.0\TollFeeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\TollFeeCalculator\obj\Debug\net5.0\TollFeeCalculator.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\TollFeeCalculator\obj\Debug\net5.0\TollFeeCalculator.AssemblyInfo.cs
+C:\Users\johan\source\repos\TollFeeCalculator\obj\Debug\net5.0\TollFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\TollFeeCalculator\obj\Debug\net5.0\TollFeeCalculator.dll
+C:\Users\johan\source\repos\TollFeeCalculator\obj\Debug\net5.0\ref\TollFeeCalculator.dll
+C:\Users\johan\source\repos\TollFeeCalculator\obj\Debug\net5.0\TollFeeCalculator.pdb
+C:\Users\johan\source\repos\TollFeeCalculator\obj\Debug\net5.0\TollFeeCalculator.genruntimeconfig.cache
+C:\Users\johan\source\repos\TollFeeCalculator\obj\Debug\net5.0\TollFeeCalculator.csprojAssemblyReference.cache
